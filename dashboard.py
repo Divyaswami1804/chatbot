@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+
 st.title("Streamlit app of vgu")
 st.text("Welcome to our dashboard")
 st.header("I am a header")
@@ -39,5 +41,11 @@ fig, ax = plt.subplots()
 ax.pie(marks, labels=subject, autopct='%1.1f%%')
 
 st.pyplot(fig)
+
+
+
+
+
+
 
 
