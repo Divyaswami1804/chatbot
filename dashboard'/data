@@ -1,0 +1,4 @@
+PC_ID,Status,User,CPU,RAM,Software,Health
+PC01,In Use,Divya,78,65,"Python, VSCode",Good
+PC02,Free,-,12,30,"Python, MATLAB",Good
+PC03,In Use,Rahul,92,88,"AutoCAD",Needs Repair
